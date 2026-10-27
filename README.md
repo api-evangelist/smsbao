@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SmsBao is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.smsbao.com/
+SmsBao, operated by Shanghai Zi Cheng Electronic Technology Co., Ltd., provides enterprise SMS services since 2015. It offers verification, notification, and marketing SMS with high throughput, supporting over 100,000 registered users and delivering up to 360,000 messages per hour across China and globally. The platform includes API documentation, SDK examples in multiple languages, and a console for message tracking and billing.
+
+**Areas:** SMS · Messaging · API · China · Enterprise
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.smsbao.com/)
+- [Support](https://www.smsbao.com/help)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/smsbao/](https://apis.io/providers/smsbao/).
